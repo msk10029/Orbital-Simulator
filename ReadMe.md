@@ -31,6 +31,8 @@ The visualization is implemented in OpenGL + GLUT. It renders:
 - Real-time Satellite Motion
 - Interactive Camera Controls
 
+![3D Orbital Simulation](screenshots/Screenshot_3d orbit visualizer.png)
+
 **Code Reference:** [`opengl_visualizer.cpp`](src/opengl_visualizer.cpp)
 
 ### Camera Controls (Keyboard)
